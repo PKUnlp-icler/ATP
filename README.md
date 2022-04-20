@@ -1,3 +1,4 @@
+## **** Refer to this official [Repository](https://github.com/chenllliang/ATP-AMR) for latest news/raising issues, 
 # ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs
 
 Hi this is the source code of our paper "ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs" accepted by findings of NAACL 2022.
